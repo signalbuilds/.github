@@ -21,4 +21,4 @@ They *prove* they do.
 📬 [Get in touch →](mailto:karthik@systemsignal.dev)
 
 
-![Cover Image](http://github.com/signalbuilds/.github/cover.png)
+![Cover Image](./cover.png)
