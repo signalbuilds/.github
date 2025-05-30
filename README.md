@@ -19,4 +19,6 @@ They *prove* they do.
 
 🔗 [Learn more →](https://systemsignal.dev/signalbuilds)  
 📬 [Get in touch →](mailto:karthik@systemsignal.dev)
-![alt text](https://github.com/signalbuilds/.github/cover.png)
+
+
+![Cover Image](http://github.com/signalbuilds/.github/cover.png)
